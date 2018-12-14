@@ -1,0 +1,2 @@
+Untuk modul GSM, power pakai dioda zener 3.6 V + resistor ke batere 9V (antara batere kotak atau 6 x AA bisa), batere sekaligus utk ke arduino juga
+Arduino pake arduino mega 2560 mini (160-an ribu), soalnya butuh 3 serial (GPS, modul GSM, sama buat ngirim/Serial arduinonya)
